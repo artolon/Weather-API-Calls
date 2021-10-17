@@ -1,7 +1,24 @@
 # homework5
-Where I store homework5 files
 
-Adding photos from homework
-https://github.com/artolon/homework5/blob/master/Wind.png
-Wind.png
-https://github.com/artolon/homework5/blob/8d40d32ec8027c0648d06c178bf72fbcb1336622/Wind.png
+**Matplot lib (Lat vs. Max Temp)**
+
+![MaxTemp](https://user-images.githubusercontent.com/59490033/137642746-f2723039-86cf-4c71-b50c-36e126e73a0b.png)
+
+
+
+**Matplot lib (Lat vs. Humidity)**
+
+![Humidity](https://user-images.githubusercontent.com/59490033/137642756-22dc5cc0-fb75-40f7-94fa-9aaefcb2bca1.png)
+
+
+
+**Matplot lib (Lat vs. Cloudiness)**
+
+![Cloudiness](https://user-images.githubusercontent.com/59490033/137642766-185c714f-561d-4819-82c0-02fbdc9afde9.png)
+
+
+
+**Matplot lib (Lat vs. Wind Speed)** 
+
+![Wind](https://user-images.githubusercontent.com/59490033/137642720-6cf64e64-8076-410e-9cd5-cf42de892648.png)
+

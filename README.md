@@ -19,4 +19,5 @@
 
 
 **Matplot lib (Lat vs. Wind Speed)** 
+
 ![Wind](https://user-images.githubusercontent.com/59490033/137817734-cbb3387f-6d24-4e19-8a0d-dd76febcd8de.png)

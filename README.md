@@ -1,4 +1,4 @@
-# homework5
+# Weather API Project Images
 
 **Matplot lib (Lat vs. Max Temp)**
 
